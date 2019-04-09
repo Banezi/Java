@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Bane\Desktop\Github\Java\OC_Activite2"/>
+		<item value="C:\Users\Bane\Desktop\ProjetSimulationV1"/>
+		<item value="C:\Users\Bane\Desktop\Github\2018-f2-forge\TP2"/>
+		<item value="C:\Users\Bane\Desktop\Github\2018-f2-forge\TP2\Alexandre-Mamadou-TP2"/>
+		<item value="C:\Users\Bane\Downloads\TP2-BENHOUMINE-JOUSSE\TP2-BENHOUMINE-JOUSSE"/>
+	</list>
 	<section name="NewWizardAction">
 	</section>
 </section>
